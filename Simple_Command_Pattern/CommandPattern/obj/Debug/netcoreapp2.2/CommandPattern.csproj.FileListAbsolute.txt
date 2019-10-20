@@ -9,3 +9,14 @@ C:\Users\morte\source\repos\I4SWD\Pattern_Command\CommandPattern\CommandPattern\
 C:\Users\morte\source\repos\I4SWD\Pattern_Command\CommandPattern\CommandPattern\bin\Debug\netcoreapp2.2\CommandPattern.pdb
 C:\Users\morte\source\repos\I4SWD\Pattern_Command\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.dll
 C:\Users\morte\source\repos\I4SWD\Pattern_Command\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.pdb
+C:\Users\morte\source\repos\MortenFilt\CommandPattern\Simple_Command_Pattern\CommandPattern\bin\Debug\netcoreapp2.2\CommandPattern.deps.json
+C:\Users\morte\source\repos\MortenFilt\CommandPattern\Simple_Command_Pattern\CommandPattern\bin\Debug\netcoreapp2.2\CommandPattern.runtimeconfig.json
+C:\Users\morte\source\repos\MortenFilt\CommandPattern\Simple_Command_Pattern\CommandPattern\bin\Debug\netcoreapp2.2\CommandPattern.runtimeconfig.dev.json
+C:\Users\morte\source\repos\MortenFilt\CommandPattern\Simple_Command_Pattern\CommandPattern\bin\Debug\netcoreapp2.2\CommandPattern.dll
+C:\Users\morte\source\repos\MortenFilt\CommandPattern\Simple_Command_Pattern\CommandPattern\bin\Debug\netcoreapp2.2\CommandPattern.pdb
+C:\Users\morte\source\repos\MortenFilt\CommandPattern\Simple_Command_Pattern\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.csprojAssemblyReference.cache
+C:\Users\morte\source\repos\MortenFilt\CommandPattern\Simple_Command_Pattern\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\morte\source\repos\MortenFilt\CommandPattern\Simple_Command_Pattern\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\morte\source\repos\MortenFilt\CommandPattern\Simple_Command_Pattern\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.AssemblyInfo.cs
+C:\Users\morte\source\repos\MortenFilt\CommandPattern\Simple_Command_Pattern\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.dll
+C:\Users\morte\source\repos\MortenFilt\CommandPattern\Simple_Command_Pattern\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.pdb

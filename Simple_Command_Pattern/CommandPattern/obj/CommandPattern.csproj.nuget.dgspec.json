@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\morte\\source\\repos\\MortenFilt\\CommandPattern\\Pattern_Command\\CommandPattern\\CommandPattern\\CommandPattern.csproj": {}
+    "C:\\Users\\morte\\source\\repos\\MortenFilt\\CommandPattern\\Simple_Command_Pattern\\CommandPattern\\CommandPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\morte\\source\\repos\\MortenFilt\\CommandPattern\\Pattern_Command\\CommandPattern\\CommandPattern\\CommandPattern.csproj": {
+    "C:\\Users\\morte\\source\\repos\\MortenFilt\\CommandPattern\\Simple_Command_Pattern\\CommandPattern\\CommandPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\morte\\source\\repos\\MortenFilt\\CommandPattern\\Pattern_Command\\CommandPattern\\CommandPattern\\CommandPattern.csproj",
+        "projectUniqueName": "C:\\Users\\morte\\source\\repos\\MortenFilt\\CommandPattern\\Simple_Command_Pattern\\CommandPattern\\CommandPattern.csproj",
         "projectName": "CommandPattern",
-        "projectPath": "C:\\Users\\morte\\source\\repos\\MortenFilt\\CommandPattern\\Pattern_Command\\CommandPattern\\CommandPattern\\CommandPattern.csproj",
+        "projectPath": "C:\\Users\\morte\\source\\repos\\MortenFilt\\CommandPattern\\Simple_Command_Pattern\\CommandPattern\\CommandPattern.csproj",
         "packagesPath": "C:\\Users\\morte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\morte\\source\\repos\\MortenFilt\\CommandPattern\\Pattern_Command\\CommandPattern\\CommandPattern\\obj\\",
+        "outputPath": "C:\\Users\\morte\\source\\repos\\MortenFilt\\CommandPattern\\Simple_Command_Pattern\\CommandPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
