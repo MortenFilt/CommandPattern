@@ -16,5 +16,13 @@
                 command.Execute();
             }
         }
+
+        public void Undo()
+        {
+            foreach (ICommand command in _commands)
+            {
+                command.Undo();
+            }
+        }
     }
 }

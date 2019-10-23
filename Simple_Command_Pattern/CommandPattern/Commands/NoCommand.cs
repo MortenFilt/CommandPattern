@@ -9,5 +9,9 @@ namespace CommandPattern
         public void Execute()
         {
         }
+
+        public void Undo()
+        {
+        }
     }
 }

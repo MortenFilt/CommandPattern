@@ -23,8 +23,10 @@ namespace CommandPattern
             remoteControl.SetCommand(0, garageLightOnCommand, garageLightOffCommand);
 
             // Simulating button clicks
-            remoteControl.OnButtonPushed(0);
-            remoteControl.OffButtonPushed(0);
+            remoteControl.OnPushed(0);
+            remoteControl.OffPushed(0);
+            Console.WriteLine("Undo test:");
+            remoteControl.UndoPushed();
 
             /*
              * MACRO COMMAND EXAMPLE
@@ -53,8 +55,10 @@ namespace CommandPattern
             remoteControl.SetCommand(0, lightsOnMacro, lightsOffMacro);
 
             // Simulating button clicks
-            remoteControl.OnButtonPushed(0);
-            remoteControl.OffButtonPushed(0);
+            remoteControl.OffPushed(0);
+            remoteControl.OnPushed(0);
+            Console.WriteLine("Undo macro test:");
+            remoteControl.UndoPushed();
         }
     }
 }

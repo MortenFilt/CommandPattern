@@ -17,5 +17,12 @@ namespace CommandPattern.Commands
         {
             _light.On();
         }
+
+        // This should undo the Execute action, eg. if Execute is On, undo is Off
+        // If Execute is ++, undo is --
+        public void Undo()
+        {
+            _light.Off();
+        }
     }
 }

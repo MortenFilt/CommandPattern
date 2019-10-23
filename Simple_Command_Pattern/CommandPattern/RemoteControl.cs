@@ -8,6 +8,7 @@ namespace CommandPattern
     {
         private ICommand[] _onCommand;
         private ICommand[] _offCommand;
+        private ICommand _lastCommand;
 
         public RemoteControl(int slotsOnRemote)
         {
@@ -46,14 +47,21 @@ namespace CommandPattern
 
         }
 
-        public void OnButtonPushed(int slot)
+        public void OnPushed(int slot)
         {
             _onCommand[slot].Execute();
+            _lastCommand = _onCommand[slot];
         }
 
-        public void OffButtonPushed(int slot)
+        public void OffPushed(int slot)
         {
             _offCommand[slot].Execute();
+            _lastCommand = _offCommand[slot];
+        }
+
+        public void UndoPushed()
+        {
+            _lastCommand.Undo();
         }
     }
 }
